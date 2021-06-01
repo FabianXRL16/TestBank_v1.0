@@ -1,0 +1,1360 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "text": "En la sucesión: 2;10;24;70; ... El término del cotavo número es:",
+            "typeQuestion": "text",
+            "typeAlternative": "text",
+            "alternatives": [
+                121,
+                212,
+                184,
+                142,
+                192
+            ],
+            "correct": 2,
+            "area": "Raz. Matemático"
+        },
+        {
+            "id": 2,
+            "text": "Si una fracción es equivalente a 2/5 y además la suma de los cuadrados de sus términos es 1044, por lo tanto el denominador de dicha fracción es:",
+            "typeQuestion": "text",
+            "typeAlternative": "text",
+            "alternatives": [
+                25,
+                15,
+                30,
+                40,
+                35
+            ],
+            "correct": 2,
+            "area": "Raz. Matemático"
+        },
+        {
+            "id": 3,
+            "text": "Un albañil pensó construir un muro en 15 días, pero tardo 6 días más por trabajar dos horas menos cada día. EL número de horas que trabajó por es es:",
+            "typeQuestion": "text",
+            "typeAlternative": "text",
+            "alternatives": [
+                8,
+                9,
+                5,
+                7,
+                6
+            ],
+            "correct": 2,
+            "area": "Raz. Matemático"
+        },
+        {
+            "id": 4,
+            "text": "Dados: A = {x ϵ R / -1 < x ≤ 5} B = {x ϵ R / x > 3 ∨ x < 3}. El resultado de A∩B es:",
+            "typeQuestion": "text",
+            "typeAlternative": "text",
+            "alternatives": [
+                "(-1,5]",
+                "(-1,3]",
+                "(-1,3)U(3,6)",
+                "(-1,3)U(3,5]",
+                "(-1,5)"
+            ],
+            "correct": 3,
+            "area": "Raz. Matemático"
+        },
+        {
+            "id": 5,
+            "text": "Dada la Relación R, definida en A = {3,6,9}",
+            "img": "../assets/EXAM/SVG/question5.svg",
+            "text2": "Se afirma que:",
+            "typeQuestion": "graph",
+            "alternatives": [
+                "R es de equivalencia",
+                "R es simétrica",
+                "R es transitiva",
+                "Dom(R) ∩ Ran(R) = Φ",
+                "R = R^-1"
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Raz. Matemático"
+        },
+        {
+            "id": 6,
+            "text": "Dada la función en R",
+            "img": "../assets/EXAM/SVG/question6.svg",
+            "text2": "Se afirma que:",
+            "typeQuestion": "graph",
+            "alternatives": [
+                "Dom(f) = [4,+∞>",
+                "f(x) ≥ 0, ∀ x ϵ R",
+                "f es una función par",
+                "Ran(f) = R",
+                "Ran(f) = R - {0}"
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Raz. Matemático"
+        },
+        {
+            "id": 7,
+            "text": "Dada la inferencia válida",
+            "img": "../assets/EXAM/SVG/question7.svg",
+            "text2": "La conclusión es:",
+            "typeQuestion": "graph",
+            "alternatives": [
+                "p",
+                "~p",
+                "q",
+                "rΔq",
+                "r∧q"
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Raz. Matemático"
+        },
+        {
+            "id": 8,
+            "text": "Se elabora un cuadro estadístico de la distribución de frecuencia, en base a una muestra de 70 familias de estudiantes de la escuela de estadística UNPRG, la vriable en estudio es: número de hijos por familia, además f1 + f2 = 25, f3 + f4 = 35, también se conoce según el cuadro que es más frecuente encontrar 20 familias con 2 hijos. Se puede comcluir que:",
+            "typeQuestion": "text",
+            "alternatives": [
+                "10 familias no tienen hijos",
+                "20 familias tienen 1 hijo",
+                "10 familias tienen 2 hijos",
+                "15 familias tienen 3 hijos",
+                "20 familias tienen 4 hijos"
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Raz. Matemático"
+        },
+        {
+            "id": 9,
+            "text": "De los registros de usuarios de tv cable, se conoce que 200 tienen el paquete completo de 120 canales, 300 tienen el paquete intermedio de 6o canales y 500 el paquete básico de 20 canales, por los registros de la empresa se conoce que el 1%, 2%, 3% de usaurios respectivamente son morosos. Si se elige un usuario al azar, la probabilidad de que no sea moroso es:",
+            "typeQuestion": "text",
+            "alternatives": [
+                "23/1000",
+                "230/1000",
+                "50/1000",
+                "860/1000",
+                "977/1000"
+            ],
+            "typeAlternative": "text",
+            "correct": 4,
+            "area": "Raz. Matemático"
+        },
+        {
+            "id": 10,
+            "text": "El precio promedio de 30 artículos es 50 nuevos soles. Si se incrementa cada artículo en 20%. Entonces el promedio se incrementará en:",
+            "typeQuestion": "text",
+            "alternatives": [
+                8,
+                10,
+                12,
+                14,
+                16
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Raz. Matemático"
+        },
+        {
+            "id": 11,
+            "text": "Sustituya la palabra en mayúscula por el sinónimo respectivo: El joven ERRANTE apareció en una cabaña.",
+            "typeQuestion": "text",
+            "alternatives": [
+                "vagabundo",
+                "orate",
+                "sedentario",
+                "confundido",
+                "decente"
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Raz. Verbal"
+        },
+        {
+            "id": 12,
+            "text": "EVITA todo aquello que vaya en DETRIMENTO de tu personalidad",
+            "typeQuestion": "text",
+            "alternatives": [
+                "enrostra - mejpría",
+                "acepta - provecho",
+                "elude - servicio",
+                "impide - beneficio",
+                "soslaya - favor"
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Raz. Verbal"
+        },
+        {
+            "id": 13,
+            "text": "Grupo de palabras que presentan diptongo homogéneo.",
+            "typeQuestion": "text",
+            "alternatives": [
+                "traiga, reina, mamey",
+                "cuenca, realce, boicot",
+                "sirviente, suave, piano",
+                "reía, viuda, cuidado",
+                "ciudad, cuy, huida"
+            ],
+            "typeAlternative": "text",
+            "correct": 4,
+            "area": "Raz. Verbal"
+        },
+        {
+            "id": 14,
+            "text": "Elija los conectores que den sentido lógico a la oración: Iza terminó su trabajo, _________ se fue a divertir con Ami _________ son muy amigos.",
+            "typeQuestion": "text",
+            "alternatives": [
+                "en primer lugar - pero",
+                "ya que - como que",
+                "posteriormente - porque",
+                "mas - pues bien",
+                "como - bien"
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Raz. Verbal"
+        },
+        {
+            "id": 15,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Raz. Verbal"
+        },
+        {
+            "id": 16,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 4,
+            "area": "Rav. Verbal"
+        },
+        {
+            "id": 17,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Rav. Verbal"
+        },
+        {
+            "id": 18,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Rav. Verbal"
+        },
+        {
+            "id": 19,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 4,
+            "area": "Rav. Verbal"
+        },
+        {
+            "id": 20,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 21,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 22,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 23,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 24,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 25,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 26,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 4,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 27,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 28,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 29,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 30,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 31,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 32,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 4,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 33,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 34,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 35,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 36,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 37,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 38,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 39,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 40,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 41,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 4,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 42,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 43,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 44,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 45,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 46,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 47,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 4,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 48,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 49,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 4,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 50,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 51,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 52,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 53,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 54,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 55,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 56,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 57,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 58,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 59,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 60,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 61,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 62,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 63,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 64,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 65,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 66,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 67,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 68,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 69,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 70,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 71,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 72,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 73,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 74,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 75,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 76,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 77,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 78,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 79,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 80,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 81,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 82,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 0,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 83,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 84,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Aleatorio"
+        },
+        {
+            "id": 85,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Química"
+        },
+        {
+            "id": 86,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 2,
+            "area": "Química"
+        },
+        {
+            "id": 87,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Química"
+        },
+        {
+            "id": 88,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 4,
+            "area": "Química"
+        },
+        {
+            "id": 89,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 3,
+            "area": "Química"
+        },
+        {
+            "id": 90,
+            "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "typeQuestion": "text",
+            "alternatives": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "typeAlternative": "text",
+            "correct": 1,
+            "area": "Química"
+        }
+    ]
+}
