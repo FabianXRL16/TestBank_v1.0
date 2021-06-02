@@ -1,4 +1,11 @@
 {
+    "data": {
+        "id": "2ef9a01c-eb36-426d-b849-b733f449af80",
+        "modality": "Examen de 5to de Secundatia",
+        "year": 2016,
+        "cicle": "III",
+        "countQuestions": 90
+    },
     "questions": [
         {
             "id": 1,
@@ -176,7 +183,7 @@
             "text": "EVITA todo aquello que vaya en DETRIMENTO de tu personalidad",
             "typeQuestion": "text",
             "alternatives": [
-                "enrostra - mejpría",
+                "enrostra - mejoría",
                 "acepta - provecho",
                 "elude - servicio",
                 "impide - beneficio",
