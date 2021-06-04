@@ -25,11 +25,17 @@
             Cancelar
           </button>
         </a>
-        <button
+        <router-link
+          to="/check"
           class="bg-green-500 text-white font-medium h-full w-full rounded extra"
         >
-          Terminar
-        </button>
+          <button
+            class="bg-green-500 text-white font-medium h-full w-full rounded extra"
+            @click="terminar()"
+          >
+            Terminar
+          </button>
+        </router-link>
       </div>
     </div>
   </div>
@@ -40,20 +46,22 @@ export default {
   name: "questionBook",
   components: {},
   props: {
-      questions:{
-          type: Number,
-          required: true,
-      }
+    questions: {
+      type: Number,
+      required: true,
+    },
   },
   data() {
-    return {
-    };
+    return {};
   },
-  methods:{
-      toAnswer(i){
-          this.$emit('getAnswer',i)
-      }
-  }
+  methods: {
+    toAnswer(i) {
+      this.$emit("getAnswer", i);
+    },
+    terminar() {
+      this.$emit("finalizar");
+    },
+  },
 };
 </script>
 

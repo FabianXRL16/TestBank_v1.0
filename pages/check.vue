@@ -7,46 +7,42 @@
         <h3 class="text-lg md:text-xl font-semibold">
           Examen Ordinario 2016 - I
         </h3>
-        <h1 class="text-xl md:text-3xl font-bold">
+        <h1 class="text-xl md:text-3xl font-bold mt-2">
           Kristin tu nota es:
-          <small class="text-2xl text-green-500">198.50</small>
+          <small class="text-3xl text-green-500">{{
+            pointTotal.toFixed(3)
+          }}</small>
         </h1>
       </div>
-      <div class="pt-4 text-xs md:text-base">
-        <div class="grid grid-cols-5 md:px-8 my-4">
-          <div class="text-center" v-for="header of headers" :key="header">
-            <h1>{{ header }}</h1>
-          </div>
-        </div>
+      <div class="w-full grid grid-cols-5 pt-10">
         <div
-          class="md:border md:border-blue-600 md:border-1 rounded grid grid-cols-5 py-2 md:py-4 md:px-8"
+          class="text-center text-lg"
+          v-for="header of headers"
+          :key="header"
+        >
+          <h1>{{ header }}</h1>
+        </div>
+      </div>
+      <div class="pt-4 text-xs md:text-base">
+        <div
+          v-for="(result, i) of revisar()"
+          :key="i"
+          class="w-full grid grid-cols-5"
         >
           <div>
-            <div v-for="subject of subjects" :key="subject">{{ subject }}</div>
+            <h1>{{ subjects[i][0] }}</h1>
           </div>
-          <div>
-            <div class="text-center" v-for="good of answers" :key="good">
-              {{ good[1] }}
-            </div>
+          <div class="text-center">
+            <h1>{{ result[0] }}</h1>
           </div>
-          <div>
-            <div class="text-center" v-for="bad of answers" :key="bad">
-              {{ bad[2] }}
-            </div>
+          <div class="text-center">
+            <h1>{{ result[1] }}</h1>
           </div>
-          <div>
-            <div class="text-center" v-for="total of answers" :key="total">
-              {{ total[0] }}
-            </div>
+          <div class="text-center">
+            <h1>{{ result[2] }}</h1>
           </div>
-          <div>
-            <div
-              class="text-right pr-10"
-              v-for="degree of answers"
-              :key="degree"
-            >
-              <!--{{ degree.toFixed(2) }}-->a
-            </div>
+          <div class="text-right font-medium">
+            <h1>{{ result[3] }}</h1>
           </div>
         </div>
       </div>
@@ -55,13 +51,17 @@
           <div class="pb-2">
             <h1 class="text-lg font-semibold">
               Carrera Profesional:
-              <small class="text-xl text-green-500">Administración</small>
+              <small class="text-xl text-green-500 pl-2">Arquitectura</small>
             </h1>
           </div>
           <div>
             <h1 class="text-lg font-semibold">
               Puntaje Mínimo:
-              <small class="text-xl text-green-500">Aprobado</small>
+              <small
+                class="text-xl pl-2"
+                :class="pointTotal > 45 ? 'text-green-500' : 'text-red-500'"
+                >{{ pointTotal > 45 ? `Aprobado` : `Desaprobado` }}</small
+              >
             </h1>
           </div>
         </div>
@@ -78,77 +78,95 @@
         </div>
       </div>
       <div class="flex justify-beteewn w-full space-x-4">
-        <button
-          class="py-2 bg-blue-600 text-white font-medium h-full w-full rounded extra"
+        <router-link
+          to="/home"
+          class="bg-blue-600 text-white font-medium h-full w-full rounded extra"
         >
-          Ir al Home
-        </button>
-        <button
-          class="py-2 bg-green-500 text-white font-medium h-full w-full rounded extra"
+          <button
+            class="py-2 bg-blue-600 text-white font-medium h-full w-full rounded extra"
+          >
+            Ir al Home
+          </button>
+        </router-link>
+        <router-link
+          to="exam"
+          class="bg-green-500 text-white font-medium h-full w-full rounded extra"
         >
-          Rendir otro Examen
-        </button>
+          <button
+            class="py-2 bg-green-500 text-white font-medium h-full w-full rounded extra"
+          >
+            Rendir otro Examen
+          </button>
+        </router-link>
       </div>
     </div>
-    <div>
-      {{result}}
-    </div>
+    <div></div>
   </div>
 </template>
 
 <script>
-import { mapGetters } from "vuex";
 export default {
-  name: "Check",
+  name: "check",
   components: {},
   props: {},
   data() {
     return {
       headers: ["Área", "Buenas", "Marcadas", "Total", "Puntaje"],
       subjects: [
-        "Raz. Verbal",
-        "Raz. Matemático",
-        "Aritmética",
-        "Álgebra",
-        "Geometría",
-        "Física",
-        "Economía",
-        "Historia",
-        "Literatura",
-        "Biología",
-        "Anatomía",
-        "Química",
+        ["Raz. Verbal", 1.2, 0.25],
+        ["Raz. Matemático", 1.2, 0.25],
+        ["Aritmética", 1.5, 0.5],
+        ["Álgebra", 1.5, 0.5],
+        ["Geometría", 1.5, 0.5],
+        ["Física", 1.5, 0.5],
+        ["Economía", 1, 0.25],
+        ["Historia", 1, 0.25],
+        ["Literatura", 1, 0.25],
+        ["Biología", 0.5, 0.15],
+        ["Anatomía", 0.5, 0.15],
+        ["Química", 0.5, 0.15],
       ],
-      answers: [
-        //[Total, Buenas, Malas]
-        [15, 11, 2],
-        [15, 13, 1],
-        [6, 2, 1],
-        [6, 6, 0],
-        [6, 5, 1],
-        [6, 2, 3],
-        [6, 4, 0],
-        [6, 5, 1],
-        [6, 6, 0],
-        [6, 0, 0],
-        [6, 1, 3],
-        [6, 4, 1],
-      ],
-      resultAnswer: {
-        "Raz. Matemático": {
-          goods: 0,
-          total: 0,
-          wrongs: 0,
-        },
-      },
+      /*results: {
+        "Raz. Matemático": { total: 15, goods: 14, wrongs: 1 },
+        "Raz. Verbal": { total: 15, goods: 12, wrongs: 2 },
+        Aritmética: { total: 6, goods: 6, wrongs: 0 },
+        Álgebra: { total: 6, goods: 6, wrongs: 0 },
+        Geometría: { total: 6, goods: 5, wrongs: 0 },
+        Física: { total: 6, goods: 4, wrongs: 2 },
+        Economía: { total: 6, goods: 5, wrongs: 1 },
+        Historia: { total: 6, goods: 3, wrongs: 0 },
+        Literatura: { total: 6, goods: 4, wrongs: 1 },
+        Biología: { total: 6, goods: 2, wrongs: 1 },
+        Anatomía: { total: 6, goods: 0, wrongs: 2 },
+        Química: { total: 6, goods: 2, wrongs: 2 },
+      },*/
+      grades: [],
+      pointTotal: 0,
     };
   },
   computed: {
-    ...mapGetters(["result"]),
+    results() {
+      return this.$store.getters["getResults"];
+    },
   },
   methods: {
-    calcularPoint() {
-      this.result
+    revisar() {
+      let grade = [];
+      let point = 0;
+      for (let i = 0; i < this.subjects.length; i++) {
+        let pointG = this.subjects[i][1];
+        let pointW = this.subjects[i][2];
+        let total = this.results[this.subjects[i][0]].total;
+        let goods = this.results[this.subjects[i][0]].goods;
+        let wrongs = this.results[this.subjects[i][0]].wrongs;
+        let mark = goods + wrongs;
+        let pointT = pointG * goods - pointW * wrongs;
+        grade.push([goods, mark, total, pointT.toFixed(3)]);
+        point = point + pointT;
+      }
+      this.pointTotal = point;
+      this.grades = grade;
+      return grade;
     },
   },
 };

@@ -251,7 +251,7 @@
             ],
             "typeAlternative": "text",
             "correct": 4,
-            "area": "Rav. Verbal"
+            "area": "Raz. Verbal"
         },
         {
             "id": 17,
@@ -266,7 +266,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Rav. Verbal"
+            "area": "Raz. Verbal"
         },
         {
             "id": 18,
@@ -281,7 +281,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Rav. Verbal"
+            "area": "Raz. Verbal"
         },
         {
             "id": 19,
@@ -296,7 +296,7 @@
             ],
             "typeAlternative": "text",
             "correct": 4,
-            "area": "Rav. Verbal"
+            "area": "Raz. Verbal"
         },
         {
             "id": 20,
@@ -311,7 +311,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Raz. Verbal"
         },
         {
             "id": 21,
@@ -326,7 +326,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Raz. Verbal"
         },
         {
             "id": 22,
@@ -341,7 +341,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Raz. Verbal"
         },
         {
             "id": 23,
@@ -356,7 +356,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Raz. Verbal"
         },
         {
             "id": 24,
@@ -371,7 +371,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Raz. Verbal"
         },
         {
             "id": 25,
@@ -386,7 +386,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Raz. Verbal"
         },
         {
             "id": 26,
@@ -401,7 +401,7 @@
             ],
             "typeAlternative": "text",
             "correct": 4,
-            "area": "Aleatorio"
+            "area": "Raz. Matemático"
         },
         {
             "id": 27,
@@ -416,7 +416,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Raz. Matemático"
         },
         {
             "id": 28,
@@ -431,7 +431,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Raz. Matemático"
         },
         {
             "id": 29,
@@ -446,7 +446,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Raz. Matemático"
         },
         {
             "id": 30,
@@ -461,7 +461,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Raz. Matemático"
         },
         {
             "id": 31,
@@ -476,7 +476,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Aritmética"
         },
         {
             "id": 32,
@@ -491,7 +491,7 @@
             ],
             "typeAlternative": "text",
             "correct": 4,
-            "area": "Aleatorio"
+            "area": "Aritmética"
         },
         {
             "id": 33,
@@ -506,7 +506,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Aritmética"
         },
         {
             "id": 34,
@@ -521,7 +521,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Aritmética"
         },
         {
             "id": 35,
@@ -536,7 +536,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Aritmética"
         },
         {
             "id": 36,
@@ -551,7 +551,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Aritmética"
         },
         {
             "id": 37,
@@ -566,7 +566,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Álgebra"
         },
         {
             "id": 38,
@@ -581,7 +581,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Álgebra"
         },
         {
             "id": 39,
@@ -596,7 +596,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Álgebra"
         },
         {
             "id": 40,
@@ -611,7 +611,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Álgebra"
         },
         {
             "id": 41,
@@ -626,7 +626,7 @@
             ],
             "typeAlternative": "text",
             "correct": 4,
-            "area": "Aleatorio"
+            "area": "Álgebra"
         },
         {
             "id": 42,
@@ -641,7 +641,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Álgebra"
         },
         {
             "id": 43,
@@ -656,7 +656,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Geometría"
         },
         {
             "id": 44,
@@ -671,7 +671,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Geometría"
         },
         {
             "id": 45,
@@ -686,7 +686,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Geometría"
         },
         {
             "id": 46,
@@ -701,7 +701,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Geometría"
         },
         {
             "id": 47,
@@ -716,7 +716,7 @@
             ],
             "typeAlternative": "text",
             "correct": 4,
-            "area": "Aleatorio"
+            "area": "Geometría"
         },
         {
             "id": 48,
@@ -731,7 +731,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Geometría"
         },
         {
             "id": 49,
@@ -746,7 +746,7 @@
             ],
             "typeAlternative": "text",
             "correct": 4,
-            "area": "Aleatorio"
+            "area": "Física"
         },
         {
             "id": 50,
@@ -761,7 +761,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Física"
         },
         {
             "id": 51,
@@ -776,7 +776,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Física"
         },
         {
             "id": 52,
@@ -791,7 +791,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Física"
         },
         {
             "id": 53,
@@ -806,7 +806,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Física"
         },
         {
             "id": 54,
@@ -821,7 +821,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Física"
         },
         {
             "id": 55,
@@ -836,7 +836,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Economía"
         },
         {
             "id": 56,
@@ -851,7 +851,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Economía"
         },
         {
             "id": 57,
@@ -866,7 +866,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Economía"
         },
         {
             "id": 58,
@@ -881,7 +881,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Economía"
         },
         {
             "id": 59,
@@ -896,7 +896,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Economía"
         },
         {
             "id": 60,
@@ -911,7 +911,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Economía"
         },
         {
             "id": 61,
@@ -926,7 +926,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Historia"
         },
         {
             "id": 62,
@@ -941,7 +941,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Historia"
         },
         {
             "id": 63,
@@ -956,7 +956,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Historia"
         },
         {
             "id": 64,
@@ -971,7 +971,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Historia"
         },
         {
             "id": 65,
@@ -986,7 +986,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Historia"
         },
         {
             "id": 66,
@@ -1001,7 +1001,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Historia"
         },
         {
             "id": 67,
@@ -1016,7 +1016,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Literatura"
         },
         {
             "id": 68,
@@ -1031,7 +1031,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Literatura"
         },
         {
             "id": 69,
@@ -1046,7 +1046,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Literatura"
         },
         {
             "id": 70,
@@ -1061,7 +1061,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Literatura"
         },
         {
             "id": 71,
@@ -1076,7 +1076,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Literatura"
         },
         {
             "id": 72,
@@ -1091,7 +1091,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Literatura"
         },
         {
             "id": 73,
@@ -1106,7 +1106,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Biología"
         },
         {
             "id": 74,
@@ -1121,7 +1121,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Biología"
         },
         {
             "id": 75,
@@ -1136,7 +1136,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Biología"
         },
         {
             "id": 76,
@@ -1151,7 +1151,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Biología"
         },
         {
             "id": 77,
@@ -1166,7 +1166,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Biología"
         },
         {
             "id": 78,
@@ -1181,7 +1181,7 @@
             ],
             "typeAlternative": "text",
             "correct": 2,
-            "area": "Aleatorio"
+            "area": "Biología"
         },
         {
             "id": 79,
@@ -1196,7 +1196,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Anatomía"
         },
         {
             "id": 80,
@@ -1211,7 +1211,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Anatomía"
         },
         {
             "id": 81,
@@ -1226,7 +1226,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Anatomía"
         },
         {
             "id": 82,
@@ -1241,7 +1241,7 @@
             ],
             "typeAlternative": "text",
             "correct": 0,
-            "area": "Aleatorio"
+            "area": "Anatomía"
         },
         {
             "id": 83,
@@ -1256,7 +1256,7 @@
             ],
             "typeAlternative": "text",
             "correct": 3,
-            "area": "Aleatorio"
+            "area": "Anatomía"
         },
         {
             "id": 84,
@@ -1271,7 +1271,7 @@
             ],
             "typeAlternative": "text",
             "correct": 1,
-            "area": "Aleatorio"
+            "area": "Anatomía"
         },
         {
             "id": 85,
